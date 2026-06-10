@@ -61,7 +61,7 @@ This project demonstrates fundamental data science skills including data cleanin
 
 Author
 
-Ibrahim Khan
+Aayush Siju Narayanan
 
 Internship
 
